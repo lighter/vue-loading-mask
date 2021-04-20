@@ -12,8 +12,6 @@
 </template>
 
 <script>
-import '../assets/LoadingMask.css';
-
 export default {
   name: "LoadingMask",
   props: {
@@ -59,5 +57,5 @@ export default {
 </script>
 
 <style scoped>
-
+@import '../assets/LoadingMask.css';
 </style>
