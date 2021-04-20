@@ -13,7 +13,7 @@
     "url": "https://github.com/lighter/vue-loading-mask.git"
   },
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
