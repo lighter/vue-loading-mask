@@ -1,6 +1,6 @@
 {
   "name": "vue-simple-loading-mask",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "vue loading mask",
   "keywords": [
     "loading mask",
@@ -12,6 +12,11 @@
     "type": "git",
     "url": "https://github.com/lighter/vue-loading-mask.git"
   },
+  "files": [
+    "dist/*",
+    "public/*",
+    "src/*"
+  ],
   "license": "MIT",
   "private": false,
   "scripts": {
