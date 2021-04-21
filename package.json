@@ -1,6 +1,6 @@
 {
   "name": "vue-simple-loading-mask",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "vue loading mask",
   "keywords": [
     "loading mask",
@@ -19,7 +19,6 @@
   ],
   "license": "MIT",
   "main": "./dist/loading-mask.umd.js",
-  "style": "./dist/loading-mask.css",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
