@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <button @click="openMask">Open</button>
+    <button @click="openMask" style="margin-top: 1000px;">Open</button>
     <button @click="closeMask">Close</button>
   </div>
 </template>
