@@ -1,5 +1,5 @@
 .loading-mask {
-    position: absolute;
+    position: fixed;
     z-index: 9999;
     margin: 0;
     top: 0;
